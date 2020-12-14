@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to the workshop on Parallel and Distributed Automated Reasoning 2021
 
-You can use the [editor on GitHub](https://github.com/PDAR-workshop/workshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In 2021, the workshop will be affiliated with [CADE-28](https://www.cs.cmu.edu/~mheule/CADE28/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goals and Scope of Workshop
 
-### Markdown
+The goal of this workshop is to bring together researchers working on the theory, practice, and application of parallel and distributed automated reasoning. Whilst parallel and distributed computational resources have become more widely abundant, and utilised in many areas of computer science, the area of automated reasoning has not embraced this as fully. Through this workshop we aim to provide a platform for researchers to present and discuss solutions and challenges when considering the parallel or distributed execution of automated reasoners, including those from the fields of CP, SAT, SMT, ASP, (first-order and higher-order) ATP, and CHC, including the full range of algorithmic approaches. The aim is to create a broad forum that allows the cross-fertilisation of ideas e.g. allowing ideas from parallel SAT solving to inspire ATP techniques, or vice-versa.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The workshop is interested in theoretical frameworks, practical implementations, experimental studies, and applications of parallel or distributed reasoning. Relevant parallel or distributed approaches may include (but are not limited to):
 
-```markdown
-Syntax highlighted code block
+ - Data-parallelism supported by GPU acceleration
+ - Vertical scaling on shared-memory multicore machines
+ - Horizontal scaling on distributed cluster or cloud resources
 
-# Header 1
-## Header 2
-### Header 3
+### Workshop Program and Proceedings
 
-- Bulleted
-- List
+The workshop will involve a mixture of submitted and invited talks. Submissions will include presentation-only papers (e.g. for existing work), position papers, and both short and full technical papers. Submitted and invited talks will be supported by structured discussion either as separated discussion sessions around key challenges highlighted by talks or in the form of a panel (depending on submissions received). A report of discussions will be included in the foreward of the post-proceedings.
 
-1. Numbered
-2. List
+We will accept a range of submissions including invited papers/presentations, presentation-only papers (e.g. for existing work), position papers, short papers, and full technical papers. The focus of the event is on discussion. We will seek to publish post-proceedings in either CEUR or EasyChair’s Kalpa series.
 
-**Bold** and _Italic_ and `Code` text
+### Important dates
 
-[Link](url) and ![Image](src)
-```
+*tbd*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Organization
 
-### Jekyll Themes
+#### Workshop chairs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PDAR-workshop/workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Giles Reger](http://www.cs.man.ac.uk/~regerg/), The University of Manchester
+- [Antti Hyvärinen](https://www.inf.usi.ch/postdoc/hyvarinen/), Università della Svizzera italiana
 
-### Support or Contact
+#### Program committee
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*tbd*
+
+#### Online plans
+
+Depending on the COVID-19 situation the workshop will take place either physically or on-line.  This   Both an online and physical version of this workshop will involve plenty of opportunity for discussion, to identify areas of common interest. An online version would include an option for pre-recorded presentations. We would encourage the main conference to adopt a mechanism for offline conversation (e.g. Slack) and would be happy to be included in this.
+
+#### Workshop history
+
+This workshop will follow on from a range of previous workshops on related topics.  One of the organisers was a co-chair in the workshop on [Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch)
+
+
+
