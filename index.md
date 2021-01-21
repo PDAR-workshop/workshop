@@ -54,6 +54,7 @@ either CEUR or EasyChair’s Kalpa series.
 
 - [Giles Reger](http://www.cs.man.ac.uk/~regerg/), The University of Manchester
 - [Antti Hyvärinen](https://www.inf.usi.ch/postdoc/hyvarinen/), Università della Svizzera italiana
+- [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology
 
 #### Program committee
 
