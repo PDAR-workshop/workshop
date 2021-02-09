@@ -64,7 +64,7 @@ either CEUR or EasyChair’s Kalpa series.
 - [Alfons Laarman](https://www.universiteitleiden.nl/en/staffmembers/alfons-laarman#tab-1), Leiden University
 - [Carsten Sintz](http://www.carstensinz.de), Karlsruhe Institute of Technology
 - [Christoph Wintersteiger](https://www.microsoft.com/en-us/research/people/cwinter/), Microsoft
-- [Enricoo Pontelli](https://www.cs.nmsu.edu/~epontell/alpec/), New Mexico State University
+- [Enrico Pontelli](https://www.cs.nmsu.edu/~epontell/alpec/), New Mexico State University
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), University of Miami
 - [Gilles Audermard](http://www.cril.univ-artois.fr/~audemard/), Université d'Artois
 - [Mario Paolo Bonacina](http://profs.sci.univr.it/~bonacina/), Università degli Studi di Verona
@@ -86,7 +86,7 @@ would include an option for pre-recorded presentations.
 #### Workshop history
 
 This workshop will follow on from a range of previous workshops on
-related topics.  The organisers previously co-chaired the workshop on
+related topics.  Some of the organisers previously co-chaired the workshop on
 [Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch) and the workshop on [Parallel Logical Reasoning 2018](https://antonwijs.wixsite.com/plr2018).
 
 
