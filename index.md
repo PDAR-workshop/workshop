@@ -46,7 +46,10 @@ either CEUR or EasyChair’s Kalpa series.
 
 ### Important dates
 
-*tbd*
+- 3rd May - Paper Submission
+- 1st June - Paper Notification
+- 11 or 16th July (tbc) - PDAR workshop @ CADE
+- After 16th July - We will be inviting updated submissions to a post-proceedings
 
 ### Organization
 
@@ -58,7 +61,18 @@ either CEUR or EasyChair’s Kalpa series.
 
 #### Program committee
 
-*tbd*
+- [Alfons Laarman](https://www.universiteitleiden.nl/en/staffmembers/alfons-laarman#tab-1), Leiden University
+- [Carsten Sintz](http://www.carstensinz.de), Karlsruhe Institute of Technology
+- [Christoph Wintersteiger](https://www.microsoft.com/en-us/research/people/cwinter/), Microsoft
+- [Enricoo Pontelli](https://www.cs.nmsu.edu/~epontell/alpec/), New Mexico State University
+- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), University of Miami
+- [Gilles Audermard](http://www.cril.univ-artois.fr/~audemard/), Université d'Artois
+- [Mario Paolo Bonacina](http://profs.sci.univr.it/~bonacina/), Università degli Studi di Verona
+- [Marijn Heule](https://www.cs.utexas.edu/users/marijn/), Carnegie Mellon University
+- [Mathias Fleury](http://fmv.jku.at/fleury/), Johannes Kepler University
+- [Michael Rawson](http://rawsons.uk/michael/), University of Manchester
+- [Souheib Baarir](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P617), Sorbonne University
+- To be finalised
 
 #### Online plans
 
@@ -72,7 +86,7 @@ would include an option for pre-recorded presentations.
 #### Workshop history
 
 This workshop will follow on from a range of previous workshops on
-related topics.  One of the organisers was a co-chair in the workshop on
-[Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch)
+related topics.  The organisers previously co-chaired the workshop on
+[Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch) and the workshop on [Parallel Logical Reasoning 2018](https://antonwijs.wixsite.com/plr2018).
 
 
