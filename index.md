@@ -44,6 +44,11 @@ position papers, short papers, and full technical papers. The focus of
 the event is on discussion. We will seek to publish post-proceedings in
 either CEUR or EasyChair’s Kalpa series.
 
+Submissions should be in PDF. Final versions should be prepared in
+LaTeX using the
+[easychair.cls](https://easychair.org/publications/for_authors) class
+file.
+
 ### Important dates
 
 - 3rd May - Paper Submission
@@ -67,7 +72,7 @@ either CEUR or EasyChair’s Kalpa series.
 - [Enrico Pontelli](https://www.cs.nmsu.edu/~epontell/alpec/), New Mexico State University
 - [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), University of Miami
 - [Gilles Audermard](http://www.cril.univ-artois.fr/~audemard/), Université d'Artois
-- [Mario Paolo Bonacina](http://profs.sci.univr.it/~bonacina/), Università degli Studi di Verona
+- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/), Università degli Studi di Verona
 - [Marijn Heule](https://www.cs.utexas.edu/users/marijn/), Carnegie Mellon University
 - [Mathias Fleury](http://fmv.jku.at/fleury/), Johannes Kepler University
 - [Michael Rawson](http://rawsons.uk/michael/), University of Manchester
