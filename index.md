@@ -35,19 +35,22 @@ work), position papers, and both short and full technical papers.
 Submitted and invited talks will be supported by structured discussion
 either as separated discussion sessions around key challenges
 highlighted by talks or in the form of a panel (depending on submissions
-received). A report of discussions will be included in the foreward of
+received). We will seek to publish post-proceedings in
+either CEUR or EasyChair’s Kalpa series. A report of discussions will be included in the foreward of
 the post-proceedings.
 
-We will accept a range of submissions including invited
-papers/presentations, presentation-only papers (e.g. for existing work),
-position papers, short papers, and full technical papers. The focus of
-the event is on discussion. We will seek to publish post-proceedings in
-either CEUR or EasyChair’s Kalpa series.
+On 11th July,  the program will consist of three sessions:
+- Session 1 (08:00 - 10:00 EDT) - Practical Experience
+- Session 2 (10:30 - 12:00 EDT) - New Applications 
+- Session 3 (12:30 - 14:00 EDT) - Discussion
 
-Submissions should be in PDF. Final versions should be prepared in
-LaTeX using the
-[easychair.cls](https://easychair.org/publications/for_authors) class
-file.
+With a full program to be announced.
+
+Confirmed talks  include:
+- 'Parallel Probabilistic Inference' by Alfonso  Laarman
+- 'Using Parallelism to Hide the Cost of ML Prover Guidance' by Michael Rawson
+- 'Hacking Shared Memory Parallelism in Vampire'  by Giles Reger
+- 'GPU SAT Solving' by Muhammad Osama
 
 ### Important dates
 
@@ -55,6 +58,8 @@ file.
 - 1st June - Paper Notification
 - 11 or 16th July (tbc) - PDAR workshop @ CADE
 - After 16th July - We will be inviting updated submissions to a post-proceedings
+
+
 
 ### Organization
 
@@ -77,16 +82,10 @@ file.
 - [Mathias Fleury](http://fmv.jku.at/fleury/), Johannes Kepler University
 - [Michael Rawson](http://rawsons.uk/michael/), University of Manchester
 - [Souheib Baarir](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P617), Sorbonne University
-- To be finalised
 
 #### Online plans
 
-Depending on the COVID-19 situation the workshop will take place either
-physically or on-line.  The workshop will aim to adapt an approach that
-is in line with that taken by CADE-28.  Both an online and physical
-version of this workshop will involve plenty of opportunity for
-discussion, to identify areas of common interest.  An online version
-would include an option for pre-recorded presentations.
+The workshop will take place online (using Zoom) as part of [CADE-28](https://www.cs.cmu.edu/~mheule/CADE28/). Registration is via CADE registration which provides access to all CADE workshops.
 
 #### Workshop history
 
