@@ -44,13 +44,14 @@ On 11th July,  the program will consist of three sessions:
 - Session 2 (10:30 - 12:00 EDT) - New Applications 
 - Session 3 (12:30 - 14:00 EDT) - Discussion
 
-With a full program to be announced.
+With a full program to be announced soon.
 
 Confirmed talks  include:
 - 'Parallel Probabilistic Inference' by Alfons Laarman
 - 'Using Parallelism to Hide the Cost of ML Prover Guidance' by Michael Rawson
 - 'Hacking Shared Memory Parallelism in Vampire'  by Giles Reger
 - 'GPU SAT Solving' by Muhammad Osama
+- More To Be Confirmed
 
 ### Important dates
 
