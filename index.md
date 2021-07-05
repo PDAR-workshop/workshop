@@ -51,6 +51,7 @@ Confirmed talks  include:
 - 'Using Parallelism to Hide the Cost of ML Prover Guidance' by Michael Rawson
 - 'Hacking Shared Memory Parallelism in Vampire'  by Giles Reger
 - 'GPU SAT Solving' by Muhammad Osama
+- 'The Networked Uncertainty Principle, or How I Stopped Worrying and Love Local Tracing' by Max Heisinger
 - More To Be Confirmed
 
 ### Important dates
