@@ -44,7 +44,8 @@ On 11th July,  the program will consist of three sessions:
 - Session 2 (10:30 - 12:00 EDT) - New Applications 
 - Session 3 (12:30 - 14:00 EDT) - Discussion
 
-With a full program to be announced soon.
+The detailed program is available
+[here](https://easychair.org/smart-program/CADE-28/).
 
 Confirmed talks  include:
 - 'Parallel Probabilistic Inference' by Alfons Laarman
