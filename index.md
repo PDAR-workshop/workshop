@@ -70,6 +70,6 @@ TBD
 
 This workshop will follow on from a range of previous workshops on
 related topics.  Some of the organisers previously co-chaired the workshop on
-[Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch), the workshop on [Parallel Logical Reasoning 2018](https://antonwijs.wixsite.com/plr2018) and  [Parallel Logical Reasoning 2018](https://pdar-workshop.github.io/workshop/2021).
+[Parallel Constraint Reasoning 2017](http://pcr17.inf.usi.ch), the workshop on [Parallel Logical Reasoning 2018](https://antonwijs.wixsite.com/plr2018) and  [Parallel Logical Reasoning 2021](https://pdar-workshop.github.io/workshop/2021).
 
 
