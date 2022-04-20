@@ -47,21 +47,6 @@ Confirmed talks (TBD):
 - [Alfons Laarman](https://alfons.laarman.com/), Leiden University
 - [Anton Wijs](https://www.win.tue.nl/~awijs/), Eindhoven University of Technology
 
-#### Program committee
-
-- [Giles Reger](http://www.cs.man.ac.uk/~regerg/), The University of Manchester
-- [Antti Hyvärinen](https://www.inf.usi.ch/postdoc/hyvarinen/), Università della Svizzera italiana
-- [Carsten Sintz](http://www.carstensinz.de), Karlsruhe Institute of Technology
-- [Christoph Wintersteiger](https://www.microsoft.com/en-us/research/people/cwinter/), Microsoft
-- [Enrico Pontelli](https://www.cs.nmsu.edu/~epontell/alpec/), New Mexico State University
-- [Geoff Sutcliffe](https://www.cs.miami.edu/home/geoff/), University of Miami
-- [Gilles Audermard](http://www.cril.univ-artois.fr/~audemard/), Université d'Artois
-- [Maria Paola Bonacina](http://profs.sci.univr.it/~bonacina/), Università degli Studi di Verona
-- [Marijn Heule](https://www.cs.utexas.edu/users/marijn/), Carnegie Mellon University
-- [Mathias Fleury](http://fmv.jku.at/fleury/), Johannes Kepler University
-- [Michael Rawson](http://rawsons.uk/michael/), University of Manchester
-- [Souheib Baarir](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P617), Sorbonne University
-
 #### Online plans
 
 TBD
