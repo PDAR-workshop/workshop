@@ -43,21 +43,21 @@ Confirmed talks (TBD):
 ### Organization
 
 
-Erika Abraham (RWTH Aachen University)
-Gilles Audemard (Université d'Artois, France)
-Sergiy Bogomolov (Newcastle University, UK)
-Maria Paola Bonacina (Università degli Studi di Verona, Italy)
-Milan Češka (Brno University of Technology, Czechia)
-Tom van Dijk (University of Twente, The Netherlands)
-Grigory Fedyukovich (Florida State University, USA)
-Marijn Heule (Carnegie Mellon University, USA)
-Antti Hyvärinen (University of Lugano, Switzerland)
-Peter Gjøl Jensen (Aalborg University, Denmark)
-Matteo Marescotti (Meta Platforms, UK)
-Giles Reger (Amazon Web Services and The University of Manchester, UK)
-Petr Ročkai (Masaryk University, Czech Republic)
-Carsten Sinz (Karlsruhe Institute of Technology, Germany)
-Scott Smolka (Stony Brook University, USA)
+- Erika Abraham (RWTH Aachen University)
+- Gilles Audemard (Université d'Artois, France)
+- Sergiy Bogomolov (Newcastle University, UK)
+- Maria Paola Bonacina (Università degli Studi di Verona, Italy)
+- Milan Češka (Brno University of Technology, Czechia)
+- Tom van Dijk (University of Twente, The Netherlands)
+- Grigory Fedyukovich (Florida State University, USA)
+- Marijn Heule (Carnegie Mellon University, USA)
+- Antti Hyvärinen (University of Lugano, Switzerland)
+- Peter Gjøl Jensen (Aalborg University, Denmark)
+- Matteo Marescotti (Meta Platforms, UK)
+- Giles Reger (Amazon Web Services and The University of Manchester, UK)
+- Petr Ročkai (Masaryk University, Czech Republic)
+- Carsten Sinz (Karlsruhe Institute of Technology, Germany)
+- Scott Smolka (Stony Brook University, USA)
 
 
 #### Workshop chairs
