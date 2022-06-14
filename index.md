@@ -31,8 +31,14 @@ include (but are not limited to):
 
 The workshop will feature several invited talks.
 
-Confirmed talks (TBD):
-- More To Be Confirmed
+Confirmed talks:
+- Julie Cailler (Université Montpellier, France)
+- Vincenzo Ciancia (ISTI-CNR Pisa, Italy)
+- David Delahaye (Université Montpellier, France)
+- Max Heisinger (JKU Linz, Austria)
+- Peter Lämmich
+- Kuldeep S. Meel (NUS, Singapore)
+
 
 ### Important dates
 
