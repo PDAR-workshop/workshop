@@ -2,6 +2,10 @@
 
 In 2022, the workshop will be affiliated with [FLOC-22](https://www.floc2022.org/)
 
+** Early bird registration deadline is 20th of June **
+
+** Online registration deadline is 20th of July **
+
 ### Goals and Scope of Workshop
 
 The goal of this workshop is to bring together researchers working on
@@ -32,6 +36,7 @@ include (but are not limited to):
 The workshop will feature several invited talks.
 
 Confirmed talks:
+
 - Julie Cailler (Université Montpellier, France)
 - Vincenzo Ciancia (ISTI-CNR Pisa, Italy)
 - David Delahaye (Université Montpellier, France)
