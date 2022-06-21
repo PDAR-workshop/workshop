@@ -126,8 +126,7 @@ The program is as follows.
 
 ### Important dates
 
-- 11th August (tbc) - PDAR workshop @ FLoC
-
+- 11th August - PDAR workshop @ FLoC
 
 
 ### Organization
