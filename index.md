@@ -79,16 +79,28 @@ The program is as follows.
   <td>Dealing With Uncertainty Between Peers and Having the Best of Times With Distributed Systems</td>
  </tr>
 </table>
-
-Confirmed talks:
-
-- Julie Cailler (Université Montpellier, France)
-- Vincenzo Ciancia (ISTI-CNR Pisa, Italy)
-- David Delahaye (Université Montpellier, France)
-- Max Heisinger (JKU Linz, Austria)
-- Peter Lammich
-- Kuldeep S. Meel (NUS, Singapore)
-
+**12:30-14:00 - Lunch**<br>
+**14:00-15:30 - Parallel Theorem Proving & SAT solving**<br>
+<table>
+ <tr>
+  <th>Time</th>
+  <th>Speaker</th>
+  <th>Affiliation</th>
+  <th>Title</th>
+ </tr>
+ <tr>
+  <td>14:00-14:45</td>
+  <td>Julie Cailler</td>
+  <td>Université de Montpellier</td>
+  <td>Goéland : A Concurrent Tableau-Based Theorem Prover</td>
+ </tr>
+ <tr>
+  <td>14:45-15:30</td>
+  <td>Max Bannach</td>
+  <td>Universit&auml;t zu L&uuml;beck</td>
+  <td>On the Parallel Parameterized Complexity of MaxSAT Variants</td>
+ </tr>
+</table>
 
 ### Important dates
 
