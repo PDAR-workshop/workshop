@@ -101,6 +101,28 @@ The program is as follows.
   <td>On the Parallel Parameterized Complexity of MaxSAT Variants</td>
  </tr>
 </table>
+**15:30-16:00 - Coffee break**<br>
+**16:00-17:30 - Solver diversification & Discussion**<br>
+<table>
+ <tr>
+  <th>Time</th>
+  <th>Speaker</th>
+  <th>Affiliation</th>
+  <th>Title</th>
+ </tr>
+ <tr>
+  <td>16:00-16:45</td>
+  <td>Markus Iser</td>
+  <td>Karlsruhe Institute of Technology</td>
+  <td>TBD</td>
+ </tr>
+ <tr>
+  <td>16:45-17:30</td>
+  <td>-</td>
+  <td>-</td>
+  <td>Discussion panel</td>
+ </tr>
+</table>
 
 ### Important dates
 
