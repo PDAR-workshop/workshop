@@ -33,7 +33,14 @@ include (but are not limited to):
 
 ### Workshop Program 
 
-The workshop will feature several invited talks.
+The workshop will feature a number of invited talks.
+The program is as follows.
+
+**09:00-10:30 - Parallel algorithms**
+09:00-09:45 - Peter Lammich (University of Twente)
+                  _Refinement of Parallel Algorithms down to LLVM_
+09:45-10:30 - Anton Wijs (Eindhoven University of Technology)
+                  _A Linear Parallel Algorithm to Compute Strong and Branching Bisimilarity_
 
 Confirmed talks:
 
