@@ -57,6 +57,27 @@ The program is as follows.
   <td>A Linear Parallel Algorithm to Compute Strong and Branching Bisimilarity</td>
  </tr>
 </table>
+**10:30-11:00 - Coffee break**
+<table>
+ <tr>
+  <th>Time</th>
+  <th>Speaker</th>
+  <th>Affiliation</th>
+  <th>Title</th>
+ </tr>
+ <tr>
+  <td>11:00-11:45</td>
+  <td>Kuldeep Meel</td>
+  <td>National University of Singapore</td>
+  <td>Leveraging GPUs for Effective Clause Sharing in Parallel SAT Solving</td>
+ </tr>
+ <tr>
+  <td>11:45-12:30</td>
+  <td>Max Heisinger</td>
+  <td>Johannes Kepler University</td>
+  <td>Dealing With Uncertainty Between Peers and Having the Best of Times With Distributed Systems</td>
+ </tr>
+</table>
 
 Confirmed talks:
 
