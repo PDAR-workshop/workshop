@@ -57,7 +57,8 @@ The program is as follows.
   <td>A Linear Parallel Algorithm to Compute Strong and Branching Bisimilarity</td>
  </tr>
 </table>
-**10:30-11:00 - Coffee break**
+**10:30-11:00 - Coffee break**<br>
+**11:00-12:30 - Parallel SAT solving**<br>
 <table>
  <tr>
   <th>Time</th>
