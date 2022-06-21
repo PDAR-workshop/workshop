@@ -37,11 +37,11 @@ The workshop will feature several invited talks.
 
 Confirmed talks:
 
-- Julie Cailler (Universit� Montpellier, France)
+- Julie Cailler (Université Montpellier, France)
 - Vincenzo Ciancia (ISTI-CNR Pisa, Italy)
-- David Delahaye (Universit� Montpellier, France)
+- David Delahaye (Université Montpellier, France)
 - Max Heisinger (JKU Linz, Austria)
-- Peter L�mmich
+- Peter Lammich
 - Kuldeep S. Meel (NUS, Singapore)
 
 
@@ -55,18 +55,18 @@ Confirmed talks:
 
 
 - Erika Abraham (RWTH Aachen University)
-- Gilles Audemard (Université d'Artois, France)
+- Gilles Audemard (UniversitÃ© d'Artois, France)
 - Sergiy Bogomolov (Newcastle University, UK)
-- Maria Paola Bonacina (Università degli Studi di Verona, Italy)
-- Milan Češka (Brno University of Technology, Czechia)
+- Maria Paola Bonacina (UniversitÃ  degli Studi di Verona, Italy)
+- Milan ÄŒeÅ¡ka (Brno University of Technology, Czechia)
 - Tom van Dijk (University of Twente, The Netherlands)
 - Grigory Fedyukovich (Florida State University, USA)
 - Marijn Heule (Carnegie Mellon University, USA)
-- Antti Hyvärinen (University of Lugano, Switzerland)
-- Peter Gjøl Jensen (Aalborg University, Denmark)
+- Antti HyvÃ¤rinen (University of Lugano, Switzerland)
+- Peter GjÃ¸l Jensen (Aalborg University, Denmark)
 - Matteo Marescotti (Meta Platforms, UK)
 - Giles Reger (Amazon Web Services and The University of Manchester, UK)
-- Petr Ročkai (Masaryk University, Czech Republic)
+- Petr RoÄkai (Masaryk University, Czech Republic)
 - Carsten Sinz (Karlsruhe Institute of Technology, Germany)
 - Scott Smolka (Stony Brook University, USA)
 
