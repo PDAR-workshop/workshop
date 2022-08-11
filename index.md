@@ -140,11 +140,11 @@ The program is as follows.
 - Tom van Dijk (University of Twente, The Netherlands)
 - Grigory Fedyukovich (Florida State University, USA)
 - Marijn Heule (Carnegie Mellon University, USA)
-- Antti HyvÃ¤rinen (University of Lugano, Switzerland)
+- Antti Hyvärinen (University of Lugano, Switzerland)
 - Peter GjÃ¸l Jensen (Aalborg University, Denmark)
 - Matteo Marescotti (Meta Platforms, UK)
 - Giles Reger (Amazon Web Services and The University of Manchester, UK)
-- Petr RoÄkai (Masaryk University, Czech Republic)
+- Petr Rockai (Masaryk University, Czech Republic)
 - Carsten Sinz (Karlsruhe Institute of Technology, Germany)
 - Scott Smolka (Stony Brook University, USA)
 
