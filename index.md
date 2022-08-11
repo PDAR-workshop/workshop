@@ -114,7 +114,7 @@ The program is as follows.
   <td>16:00-16:45</td>
   <td>Markus Iser</td>
   <td>Karlsruhe Institute of Technology</td>
-  <td>TBD</td>
+  <td>Beyond Portfolios of Stable Solvers</td>
  </tr>
  <tr>
   <td>16:45-17:30</td>
